@@ -7,7 +7,6 @@
 - 🎓 Computer Science Student  
 - 🌱 Currently learning **Cloud Computing & Computer Vision**  
 - 💡 Love building projects with **React, Express, and MongoDB**  
-- 📫 Reach me at **your-email@gmail.com**  
 
 ---
 
