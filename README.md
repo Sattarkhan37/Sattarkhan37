@@ -4,8 +4,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student  
-- 🌱 Currently learning **Cloud Computing & Computer Vision**  
+- 🎓 BE in Computer Science Engineering  
+- 🌱 Currently learning **Node.js, Express, and MongoDB (MERN stack)**  
 - 💡 Love building projects with **React, Express, and MongoDB**  
 
 ---
