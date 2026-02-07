@@ -34,6 +34,6 @@
 
 ### 🔗 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="www.linkedin.com/in/a-s-khan"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:abdulsattarkhan973@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
